@@ -119,7 +119,7 @@ Pasos de prueba (con el contenedor en marcha):
 
 ### 6. Publicar y descargar la imagen (registry)
 
-Sustituye `helenaperezz` por tu usuario de Docker Hub:
+La imagen está publicada en https://hub.docker.com/r/helenaperezz/tienda-online. Para subir tu propia versión:
 
 ```bash
 docker login
